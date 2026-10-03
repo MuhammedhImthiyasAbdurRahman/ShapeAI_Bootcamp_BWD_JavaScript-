@@ -1,27 +1,42 @@
-# SHAPEAI Javascript and Reactjs BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png"> </a>
-<br>I got to have hands on experience on:
-<li>JavaScript
-<li>HTML
-<li>React.js
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
-or follow SHAPEAI on:
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+# React Component Practice
 
+**React 17 · JavaScript · JSX · HTML · CSS**
+
+A small frontend learning project created during the seven-day ShapeAI JavaScript and React bootcamp with Shaurya Sinha.
+
+## What this project explores
+
+- Splitting a UI into reusable functional components.
+- Importing and composing `Header`, `Footer` and `Info` inside `App`.
+- Connecting React rendering with an HTML page and stylesheet.
+
+## Source guide
+
+| File | Purpose |
+| --- | --- |
+| `App.jsx` | Composes the main UI |
+| `Header.jsx`, `Footer.jsx`, `Info.jsx` | UI components |
+| `index.js` | React entry point |
+| `index.html` | HTML document |
+| `styles.css` | Styling |
+| `package.json` | Dependencies and original scripts |
+
+## Current setup status
+
+The repository preserves the original bootcamp files. Its package scripts reference `react-scripts`, but that package is not listed as a dependency, and the files are stored at the repository root rather than in the usual `src` / `public` layout. A working local build is therefore not yet documented or verified.
+
+To continue development, place these components in a configured React project, update imports and entry paths, and validate the application before adding a live demo.
+
+## Next steps
+
+- Add a reproducible development setup.
+- Capture the running interface and add a screenshot.
+- Document the visible features and publish a demo.
+
+## Author & acknowledgements
+
+**Abdur Rahman Imthiyas**
+
+Developed as learning work during the ShapeAI bootcamp, instructed by Shaurya Sinha. [Original course sessions](https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu).
+
+[Portfolio](https://abdurrahmanimthiyas.wordpress.com/) · [LinkedIn](https://www.linkedin.com/in/muhammedh-imthiyas-abdur-rahman-606a4a245)
